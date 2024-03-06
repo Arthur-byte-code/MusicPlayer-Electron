@@ -1,0 +1,1 @@
+Electron.js é uma estrutura de código aberto que permite o desenvolvimento de aplicativos de desktop multiplataforma usando tecnologias web como HTML, CSS e JavaScript. Ele permite que desenvolvedores criem aplicativos de desktop nativos para Windows, macOS e Linux, utilizando as mesmas habilidades e tecnologias que são usadas para criar aplicativos da web.
